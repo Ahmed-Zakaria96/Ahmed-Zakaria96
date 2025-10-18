@@ -6,14 +6,8 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
 
-- 🌱 I am a Data Scientist | ITI AI-Pro alumni with solid understanding of machine learning algorithms and deep learning. in addition to expertise in natural language techniques and computer vision.
+- 🌱 ITI AI-Pro alumni | Machine Learning & Software Engineer @Huawei with a strong background in building data pipelines, backend services, and  automation tools. Experienced in LLM fine-tuning, NLP, and computer vision, with proven success improving model accuracy and deploying ML solutions into production. Skilled in API design, scalable system architecture.
 
-- 🌱 My expertise extends to hands-on experience in exploratory data analysis and visualization, coupled with adeptness in database design, ETL processes, and the creation of dynamic dashboards using tools such as Power BI and Dash Plotly.
-
-
-- ⚡ Django developer, I have successfully designed, implemented, and maintained web applications that adhere to best practices and deliver exceptional user experiences.
-
-- ⚡ I am proficient in key Django concepts, including ORM, views, templates, and RESTful APIs. Moreover, I bring a comprehensive understanding of front-end technologies and experience collaborating with cross-functional teams to ensure seamless integration of features.
 
 <br>
 <h3 align="left">Connect with me:</h3>
