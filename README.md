@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Zakaria</h1>
-<h3 align="center">Junior Machine Learning engineer | Django developer</h3>
+<h3 align="center">Machine Learning | Automation Engineer</h3>
 
 <br>
 
